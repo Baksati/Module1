@@ -3,7 +3,7 @@
 Присвоить исходному файлу имя "IfSample.java"
 */
 class IfSample {
-    public static void main (String args[]) {
+    public static void main (String[] args) {
         int x, y;
 
         x = 10;
